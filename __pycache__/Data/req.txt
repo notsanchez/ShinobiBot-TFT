@@ -1,8 +1,0 @@
-pyautogui
-autoit
-pydirectinput
-pynput
-python-imageseach-drov0
-PyAutoIt
-pyarmor
-licensing
